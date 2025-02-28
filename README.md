@@ -30,7 +30,7 @@ mozilla-splash/
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/mozilla-splash.git
+   git clone https://github.com/Afzal91004/Mozilla-Splash-Page.git
    ```
 2. Navigate to the project directory:
    ```sh
